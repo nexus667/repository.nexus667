@@ -1,4 +1,4 @@
-kodzi-title = "Nexus' Repo"
-kodzi-name = “Kodzi”, url = “mrkodz.github.io”
-kodzi-name = “Seren”, url = “nixgates.github.io”
-kodzi-name = “Doko”, url = “doko-desuka.github.io"
+kodzi-title = "Nexus Repo"
+kodzi-name = “Kodzi”, url = "mrkodz.github.io"
+kodzi-name = “Seren”, url = "nixgates.github.io/packages"
+kodzi-name = Doko, url = "doko-desuka.github.io"
